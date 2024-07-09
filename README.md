@@ -9,7 +9,7 @@
 
 - ⚡ **I love games**
 
-<h3 align="left">Connect with me: [https://t.me/aleks009009](https://t.me/aleks009009) </h3>
+<h3 align="left">Connect with me: https://t.me/aleks009009 </h3>
 <p align="left">
 </p>
 
