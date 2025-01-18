@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 <h3 align="center">Unity developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://alexandrunitydev.tilda.ws/](https://alexandrunitydev.tilda.ws/)
+- 👨‍💻 Examples of my projects are available at [https://alexandrunitydev.tilda.ws/](https://alexandrunitydev.tilda.ws/)
 
 - 📫 How to reach me **alecs.2004fed@gmail.com**
 
